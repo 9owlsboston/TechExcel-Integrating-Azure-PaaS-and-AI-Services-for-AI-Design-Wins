@@ -351,3 +351,6 @@ ASALocalRun/
 **/config_full.json
 
 appsettings.*.json
+
+# venv 
+aiwin/
